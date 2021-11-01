@@ -2,7 +2,6 @@ import React from 'react';
 
 import MenuItem from '../menu-items/menu-item.component';
 import axios from 'axios';
-
 import './directory.styles.scss';
 
 import base_url from "../../base-content";
